@@ -1,4 +1,4 @@
-# Deep Neural Model for recipe generation
+# Deep Neural Model for Recipe Generation with and without attention
 
-This project trains a deep neural model for recipe generation using tensorflow. 
+This project trains a deep neural network model for recipe generation using tensorflow in python 
 
